@@ -1,0 +1,67 @@
+.wrapper{
+    max-width: 1500px;
+    margin:0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    padding-bottom: 150px;
+    justify-content: space-around;
+    height: auto;
+    min-height: 100%;
+    position: relative;
+}
+
+#header { 
+    color: gray;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#nav {
+    display: flex;
+    justify-content: center;
+    color: cornflowerblue;
+    padding-top: 20px;
+}
+
+#nav h2 :visited {
+    color: cornflowerblue;
+}
+
+
+#nav h2 :hover {
+    color: gray;
+    transition: all ease 1s 0s;
+}
+
+#nav h2 :link {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+#nav #homebtn{
+    max-width: 50px;
+}
+
+#nav h2 {
+    color : cornflowerblue;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+#footer {
+    width: 100%;
+    border-top: 1px solid lightgray;
+    height: 100px;
+    bottom: 0;
+    position: relative;
+}
+
+#footerText{
+    font-size: smaller;
+    padding-left: 150px;
+    line-height: 5px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+} 
+

@@ -1,0 +1,103 @@
+/*수정하기 버튼*/
+#btn1{
+    width: 100px;
+    height: 40px;
+    /* position:absolute; */
+    margin-left: 1600px;
+    
+}
+/* 검색버튼 */
+.btn2Style{
+    margin: 0 auto;
+    
+}
+
+.btn3{   
+    background: yellow;
+    border-radius: 50px 50px;
+    width: 50px;
+    color: black;
+    font-size: 30px;
+   
+}
+
+/* 페이지 제목 */
+.p1{
+    font-size: 50px;
+    text-align : center;
+}
+
+
+
+/* 빈공간 이미지 */
+.box1{
+    
+    width: 300px;
+    height: 200px;
+    background: gainsboro;
+    padding : 125px;
+    margin : 50px;
+}
+
+/* 빈공간 이미지 wrap으로 감싼 부분 */
+ .wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 0;
+	row-gap: 100px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    place-items: center;
+    
+} 
+
+/* input태그, 검색button 설정 */
+.ipt {
+    height : 30px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: start;
+    justify-content: center;
+
+}
+
+/* 이미지 밑에 글자, 체크박스 부분 */
+.textbox {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+/* 종연님 아이템 상세 페이지 css */
+
+.itemDetail{
+    max-width: 1400px;
+    margin: 60px auto;
+    display: flex;
+}
+
+.itemImage img {
+    border: 1px solid rgb(237, 237, 237);
+    width: 600px;
+    height: 600px;
+    margin-right: 50px;
+}
+
+#itemTitle {
+    margin-top: 20px;
+}
+
+.itemText {
+    margin-top: 20px;
+    border: 5px solid cornflowerblue;
+}
+
+#itemInfo{
+    border-top: 1px solid cornflowerblue;
+}
+
+.itemText p {
+    border-top: 1px solid cornflowerblue;
+}

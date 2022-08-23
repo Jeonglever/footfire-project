@@ -1,0 +1,47 @@
+/* LoginForm.js 용 Style 추가*/
+
+#login {
+    min-height: 100%;
+}
+.loginForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: 250px;
+    border: 5px solid cornflowerblue;
+    border-radius: 20px;
+    margin : 50px auto;
+    margin-bottom: 268px;
+}
+.loginForm input{
+    height: 17px;
+    border: 2px solid cornflowerblue;
+}
+.loginForm label{
+    color: gray;
+}
+.loginForm input:focus{
+    outline: none;
+}
+.loginButton {
+    border-radius: 10px;
+    border: 1px solid white;
+    width : 80px;
+    height : 25px;
+    background: cornflowerblue;
+    color : white;
+}
+/* Login.js 용 Style 추가*/
+.loginStyle {
+    margin : 0 auto;
+    text-align: center;
+}
+#nickname {
+    margin-left: 22px;
+}
+#password {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

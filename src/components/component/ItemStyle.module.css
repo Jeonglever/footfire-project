@@ -1,0 +1,36 @@
+
+
+.itemImage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.itemImage img {
+    width: 600px;
+    height: 600px;
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.itemDelBtn {
+    display: flex;
+    align-items: center;
+}
+
+.itemDelBtn p {
+    font-size: large;
+}
+
+.itemDelBtn button {
+    margin-left: 20px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    border: 1px solid white;
+    background-color: rgb(167, 197, 255);
+    border-radius: 10px;
+    color: white;
+}
+
+

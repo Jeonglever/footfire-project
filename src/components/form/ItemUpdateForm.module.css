@@ -1,0 +1,14 @@
+.itemUpdateList {
+    margin : 0 auto;
+    text-align: center;
+}
+
+
+.itemUpdateButton {
+    border-radius: 10px;
+    width : 120px;
+    height : 30px;
+    background: black;
+    color : white;
+    
+}

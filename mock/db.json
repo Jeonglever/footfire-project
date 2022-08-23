@@ -1,0 +1,114 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nickname": "정혜연",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "nickname": "김승환",
+      "password": "2345"
+    },
+    {
+      "id": 3,
+      "nickname": "황종연",
+      "password": "3456"
+    },
+    {
+      "nickname": "김형기님고인물임",
+      "password": "1234",
+      "id": 7
+    }
+  ],
+  "item": [
+    {
+      "userid": 1,
+      "id": 1,
+      "itemName": "피카츄 마우스",
+      "itemPrice": 26100,
+      "detail": {
+        "description": "귀여운 블루투스 무선 피카츄 마우스! 포인트가 안잡힌다고는 하는데 귀엽고 난 피카츄를 좋아하니까 장만하고 싶다",
+        "image": "/images/11.jpg",
+        "link": "https://www.funshop.co.kr/goods/detail/173062?t=sc"
+      }
+    },
+    {
+      "userid": 1,
+      "id": 2,
+      "itemName": "스타벅스 보온보냉 텀블러",
+      "itemPrice": 28900,
+      "detail": {
+        "description": "블랙앤골드 라인 보온보냉 텀블러. 성능도 좋다고 하고 학원다니면서 일회용 컵 너무 자주 써서 하나 사볼 예정",
+        "image": "/images/12.jpg",
+        "link": "https://www.hottracks.co.kr/ht/product/detail?barcode=2310046009928&foo=bar&rccode=pc_category3"
+      }
+    },
+    {
+      "userid": 1,
+      "id": 3,
+      "itemName": "Totême 실크 스카프",
+      "itemPrice": 344000,
+      "detail": {
+        "description": "엄마 생신 선물로 사드리고 싶은 실크 스카프, 고급스럽고 예쁘다",
+        "image": "/images/13.jpg",
+        "link": "https://www.farfetch.com/kr/shopping/women/toteme--item-16221311.aspx?storeid=13537"
+      }
+    },
+    {
+      "userid": 2,
+      "id": 4,
+      "itemName": "블루투스 무선 조이패드",
+      "itemPrice": 28700,
+      "detail": {
+        "description": "게임 할 때 사용할 수 있는 조이패드. 키보드보다 훨씬 즐겁게 게임 할 수 있다",
+        "image": "/images/21.jpg",
+        "link": "https://shaks.store/en/products/%EC%83%A5%EC%8A%A4-s1?variant=40658359484605&currency=KRW&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_campaign=gs-2022-04-06&utm_source=google&utm_medium=smart_campaign&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr-rzsAp9Pa8RmErg8eEFe_JiRNah3xK8KIB63Rssw0z1K94siUhXbcaApIoEALw_wcB"
+      }
+    },
+    {
+      "userid": 2,
+      "id": 5,
+      "itemName": "스프링 부트 시작하기",
+      "itemPrice": 19800,
+      "detail": {
+        "description": "곧 닥칠 미래를 미리 준비하자...",
+        "image": "/images/22.png",
+        "link": "http://www.yes24.com/Product/Goods/70893395"
+      }
+    },
+    {
+      "userid": 2,
+      "id": 6,
+      "itemName": "JBL FLIP 5 블루투스 스피커",
+      "itemPrice": 109000,
+      "detail": {
+        "description": "음질 빵빵한 블루투스 스피커, 이것이 있으면 뮤직 마이 라이프 (^_^)b",
+        "image": "/images/31.jpg",
+        "link": "https://www.samsung.com/sec/harman-life-style-audio/jbl-speaker-flip5blk-d2c/JBLFLIP5BLK/?cid=sec_paid_display_smartshopping_multi_ecommerce_groupdeal2022_feed_JBLFLIP5BLK_none&utm_source=smartshopping&utm_medium=display&utm_campaign=groupdeal2022&utm_content=JBLFLIP5BLK&utm_term=none&_AT=0416145D01AD0350D7C1&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr9WMKixgZOlAjfg65UTGfzW5kFGlNpGBcspQjnnEWYGRRGiOqx97NQaAq_MEALw_wcB"
+      }
+    },
+    {
+      "userid": 3,
+      "id": 7,
+      "itemName": "앱코 HACKER N550 헤드셋",
+      "itemPrice": 31000,
+      "detail": {
+        "description": "뮤직 이즈 라이프 2탄 음질 빵빵 헤드셋과 함께 등원하면 피로함도 싹 가신다",
+        "image": "/images/32.jpg",
+        "link": "https://smartstore.naver.com/roapapa/products/5528963532?NaPm=ct%3Dl6vryxgo%7Cci%3Dshopn%7Ctr%3Ddana%7Chk%3D88b232fba8d512cddb60b5228780404692e3d421%7Ctrx%3Dundefined"
+      }
+    },
+    {
+      "userid": 3,
+      "id": 8,
+      "itemName": "이노크아든 커피머신",
+      "itemPrice": 59800,
+      "detail": {
+        "description": "매일 아침 카페인이 필요한 나를 위해 커피머신을 선물하자",
+        "image": "/images/33.jpg",
+        "link": "http://www.10x10.co.kr/shopping/category_prd.asp?itemid=2095140&utm_source=google&utm_medium=ad&utm_campaign=shopping_w&utm_term=ggshop&rdsite=ggshop&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr-LXg6n6aLu9KNsS80nf6HuWWinJQGG1ssTqNeo8Pb-ZcKTEB4eut4aAhncEALw_wcB"
+      }
+    }
+  ]
+}

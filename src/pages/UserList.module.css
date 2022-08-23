@@ -1,0 +1,36 @@
+#List{
+    max-width: 1500px;
+    margin:0 auto;
+    margin-bottom: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.userList {
+    border-style:ridge;
+    width:50%;
+	height:50%;
+    margin: 0 auto;
+	border-width:3px;
+    padding: 10px;
+}
+
+.userUpdateButton {
+    border-radius: 10px;
+    width : 90px;
+    height : 40px;
+    background: black;
+    color : white;
+    margin: 10px 100px;
+    margin-bottom: 50px;
+    
+}
+
+.btnStyle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
